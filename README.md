@@ -25,7 +25,7 @@
 
 <br/>
 
-<a href="https://github.com/dig">
+<a href="https://github.com/XDVelectical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dig&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dig&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&layout=compact" />
 </a>
