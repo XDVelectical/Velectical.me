@@ -2,7 +2,7 @@
 
 - Experience with java, Javascript and CSS (among others)
 - Interested in programming, creating plugins.
-- Likes cars
+- I like cars
 - any questions dm me on discord: Velectical#001
 
 <h3>Stack</h3>
@@ -26,5 +26,5 @@
 
 <a href="https://github.com/XDVelectical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&layout=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/every-langs/?username=XDVelectical&theme=buefy&layout=compact" />
 </a>
