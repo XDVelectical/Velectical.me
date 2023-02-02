@@ -26,5 +26,5 @@
 
 <a href="https://github.com/XDVelectical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/all-langs/?username=XDVelectical&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/all-langs/?username=XDVelectical&theme=buefy&layout=true" />
 </a>
