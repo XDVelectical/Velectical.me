@@ -28,5 +28,5 @@
   <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&show_icons&layout=compact" />
   
   ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XDVelectical) 
-  [![XDVelectical's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XDVelectical)](https://github.com/anuraghazra/github-XDVelectical-stats) 
+  
 </a>
