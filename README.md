@@ -23,8 +23,10 @@
 - ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-<a href="https://github.com/XDVelectical/XDVelectical.git">
+
+<a href="https://github.com/XDVelectical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
-  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs?username=XDVelectical&theme=buefy&show_all_icons&layout=compact" />
-  </a>
-  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Velectical) 
+  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&show_icons&layout=compact" />
+  
+</a>
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Velectical) 
