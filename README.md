@@ -25,6 +25,6 @@
 <br/>
 <a href="https://github.com/XDVelectical/XDVelectical.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
-  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs?username=XDVelectical&theme=buefy&show_icons=compact" />
+  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs?username=XDVelectical&theme=buefy&show_all_icons&layout=compact" />
   </a>
   ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Velectical) 
