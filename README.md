@@ -27,6 +27,10 @@
 <a href="https://github.com/XDVelectical/XDVelectical.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
   <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&show_icons&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=XDVelectical&theme=bufery&show_icons&layout=true" />
   
+</a>
+
+<a href="https://wakatime.com/@5ab2817e-3c11-45ca-bb43-d243e58cc9bd"><img src="https://wakatime.com/badge/user/5ab2817e-3c11-45ca-bb43-d243e58cc9bd.svg" alt="Total time coded since Feb 3 2023" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=XDVelectical&theme=bufery&show_icons&layout=true" />
+
 </a>
