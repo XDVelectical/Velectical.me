@@ -11,7 +11,6 @@
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XDVelectical)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -27,5 +26,5 @@
 <a href="https://github.com/XDVelectical/XDVelectical.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XDVelectical&theme=buefy&show_icons=true" />
   <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDVelectical&theme=buefy&show_icons&layout=compact" />
-  
+  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XDVelectical) 
 </a>
