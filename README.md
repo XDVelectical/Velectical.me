@@ -5,6 +5,8 @@
 - I like cars
 - any questions dm me on discord: Velectical#001
 
+<a href="https://wakatime.com/@5ab2817e-3c11-45ca-bb43-d243e58cc9bd"><img src="https://wakatime.com/badge/user/5ab2817e-3c11-45ca-bb43-d243e58cc9bd.svg" alt="Total time coded since Feb 3 2023" /></a>
+![](https://komarev.com/ghpvc/?username=XDVelectical&color=orange)
 <h3>Stack</h3>
 
 
@@ -32,4 +34,5 @@
  </a>
  
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Velectical)
- alt="Github commit streak" 
+
+
