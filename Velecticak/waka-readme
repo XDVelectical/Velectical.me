@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: Velectical/waka-readme@Velectical
         with:
-          WAKATIME_API_KEY: ${{ waka_5181e8d2-6cf4-4756-84dc-df279ba5ebe3 }}
+          WAKATIME_API_KEY: ${{ secrets.API.key }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MSG: "Automated Coding Activity Update"
           TIME_RANGE: last_30_days
